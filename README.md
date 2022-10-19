@@ -4,3 +4,4 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
