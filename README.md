@@ -4,3 +4,5 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+  
+- [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
