@@ -4,3 +4,4 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+- [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) :blush:
