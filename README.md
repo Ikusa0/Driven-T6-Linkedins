@@ -4,3 +4,4 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+- [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
