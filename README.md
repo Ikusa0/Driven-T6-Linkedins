@@ -14,3 +14,4 @@
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
 - [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) 🧰
+- [Eduardo Oliveira Pacheco](https://www.linkedin.com/in/eduardopacheco12) 🌎
