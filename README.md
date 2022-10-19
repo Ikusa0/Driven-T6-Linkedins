@@ -10,3 +10,4 @@
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
 - [Tiago de Lima Batista](https://www.linkedin.com/in/tiago-de-lima-613291213/)
+- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
