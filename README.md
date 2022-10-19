@@ -1,5 +1,5 @@
 
-![Driven Logo](https://uploads-ssl.webflow.com/62235d098ddf9185c2d74422/622c0e0746587f694e5361b5_Driven_pink.png)
+![enter image description here](https://uploads-ssl.webflow.com/62235d098ddf9185c2d74422/622c0e0746587f694e5361b5_Driven_pink.png)
 
 # Linkedins
 
@@ -12,4 +12,4 @@
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
-- [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) 🧰
+- [Bárbara Rech](https://www.linkedin.com/in/barbara-rech/) :upside_down_face:
