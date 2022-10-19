@@ -4,3 +4,5 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+
+- [Tiago de Lima Batista](https://www.linkedin.com/in/tiago-de-lima-613291213/)
