@@ -9,3 +9,4 @@
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
+- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
