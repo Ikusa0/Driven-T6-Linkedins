@@ -4,3 +4,4 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
+- [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
