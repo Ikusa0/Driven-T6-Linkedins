@@ -9,3 +9,5 @@
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) :blush:
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
 - [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) :sweat_smile:
+- [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
+- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
