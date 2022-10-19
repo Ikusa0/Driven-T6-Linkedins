@@ -5,3 +5,5 @@
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
+- [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) :blush:
+- [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
