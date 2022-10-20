@@ -18,3 +18,4 @@
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
 - [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) 😁
 - [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) 🤠
+- [Victor Hugo Borges Simões](https://www.linkedin.com/in/victorhugosimoes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/VicterHuger)
