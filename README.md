@@ -93,3 +93,6 @@
 
 
 - [Dimitri Daher Assis](https://www.linkedin.com/in/dimitri-assis/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dimitripontocss)
+
+
+- [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/carlos-allbuquerque)
