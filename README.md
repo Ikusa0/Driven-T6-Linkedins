@@ -81,3 +81,6 @@
 
 
 - [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
+
+
+- [Adriano Matoba Lipski](https://www.linkedin.com/in/adriano-matoba-lipski-555378239/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dr1co)
