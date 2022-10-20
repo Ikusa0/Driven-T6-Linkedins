@@ -63,4 +63,4 @@
 - [João Marcelo Simão de Castro](https://www.linkedin.com/in/joao-marcelo-castro/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jyagami99)
 
 
-- [Rudá Rabello da Silva](https://www.linkedin.com/in/ruda-rabello-da-silva/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rudarabello)
+- [Rudá Rabello da Silva](https://www.linkedin.com/in/ruda-rabello-da-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rudarabello)
