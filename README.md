@@ -138,3 +138,6 @@
 
 
 - [Thales Alves dos Santos](https://www.linkedin.com/in/thalesalvess/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/thalesAlves758)
+
+
+- [Pedro H B O Dias](https://www.linkedin.com/in/phbodias/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/phbodias)
