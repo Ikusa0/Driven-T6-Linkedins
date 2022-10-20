@@ -13,8 +13,8 @@
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danilo-olacerda)
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Audrey-Costa)
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Hector-Santos)
-- [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) 😊
-- [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
-- [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
-- [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) 😁
-- [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) 🤠
+- [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Tutuezin)
+- [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pgeovany)
+- [Eric Chandia](https://www.linkedin.com/in/eric-chandia/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/EricChandia)
+- [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/carlos-allbuquerque)
+- [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rerenan)
