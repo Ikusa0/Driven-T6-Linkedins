@@ -21,6 +21,9 @@
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 
 
+- [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
+
+
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
 
 
@@ -34,6 +37,7 @@
 
 
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Hector-Santos)
+
 
 - [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Tutuezin)
 
@@ -58,4 +62,5 @@
 
 - [João Marcelo Simão de Castro](https://www.linkedin.com/in/joao-marcelo-castro/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jyagami99)
 
-- [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
+
+- [Rudá Rabello da Silva](https://www.linkedin.com/in/ruda-rabello-da-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rudarabello)
