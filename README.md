@@ -111,3 +111,7 @@
 
 
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
+
+
+- [João Victor de Albuquerque Silva](https://www.linkedin.com/in/jv-albuquerque-s) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/JV-Albuquerque-S)
+
