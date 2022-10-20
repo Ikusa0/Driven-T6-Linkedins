@@ -124,3 +124,6 @@
 
 - [Ryan Nicholas Maia Vieira](https://www.linkedin.com/in/ryan-nicholas-15ba51158/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/FKnight-cyber)
 
+
+- [Jaqueline Caye](https://www.linkedin.com/in/jaqueline-caye/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jaquecaye2)
+
