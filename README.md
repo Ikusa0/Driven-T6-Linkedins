@@ -8,11 +8,11 @@
 - [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jhuzinha)
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/V1T0R-CM)
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
-- [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
-- [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) :sweat_smile:
-- [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
-- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
-- [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
+- [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
+- [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Lucasrfon)
+- [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danilo-olacerda)
+- [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Audrey-Costa)
+- [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Hector-Santos)
 - [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) 😊
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
