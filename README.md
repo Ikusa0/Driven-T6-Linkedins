@@ -150,3 +150,6 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
+
+
+- [Guilherme Nunes Lopes](https://www.linkedin.com/in/guilherme-nl/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Guilherme-NL)
