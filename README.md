@@ -103,3 +103,5 @@
 
 - [Gabriel Farias Alves](https://www.linkedin.com/in/gabriel-farias-alves/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/farias-77)
 
+
+- [Caio Rodrigues Villela Pedras](https://www.linkedin.com/in/CaioPedras/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Caio-Pedras)
