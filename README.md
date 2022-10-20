@@ -20,6 +20,8 @@
 
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 
+- [Vinicius Pacheco](https://www.linkedin.com/in/vinicius-pacheco-54abaa242/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/ThVinicius)
+
 
 - [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
 
