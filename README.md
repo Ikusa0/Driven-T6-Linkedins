@@ -18,3 +18,4 @@
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
 - [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) 😁
 - [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) 🤠
+- [Luis Almeida](https://www.linkedin.com/in/luis-mca/)
