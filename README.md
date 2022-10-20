@@ -100,3 +100,6 @@
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
 
+
+- [Gabriel Farias Alves](https://www.linkedin.com/in/gabriel-farias-alves/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/farias-77)
+
