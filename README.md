@@ -84,3 +84,6 @@
 
 
 - [Adriano Matoba Lipski](https://www.linkedin.com/in/adriano-matoba-lipski-555378239/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dr1co)
+
+
+- [Victor Hugo Borges Simões](https://www.linkedin.com/in/victorhugosimoes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/VicterHuger)
