@@ -1,4 +1,3 @@
-
 ![Driven Logo](https://uploads-ssl.webflow.com/62235d098ddf9185c2d74422/622c0e0746587f694e5361b5_Driven_pink.png)
 
 # Linkedins
@@ -54,6 +53,9 @@
 
 
 - [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rerenan)
+
+
+- [Ricardo Augusto Martins Oliveira](https://www.linkedin.com/in/ricardomartinso/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/ricardomartinso) :sunglasses:
 
 
 - [Thalya Busato Beltrame](https://www.linkedin.com/in/thalyabbeltrame/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/thalyabbeltrame)
