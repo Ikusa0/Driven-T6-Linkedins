@@ -120,3 +120,7 @@
 
 
 - [Adnan Medeiros Bezerra](https://www.linkedin.com/in/adnan-medeiros-bezerra-374134220/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/adnanbezerra)
+
+
+- [Ryan Nicholas Maia Vieira](https://www.linkedin.com/in/ryan-nicholas-15ba51158/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/FKnight-cyber)
+
