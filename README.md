@@ -71,3 +71,6 @@
 
 
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro) 
+
+
+- [Rafael de Lima Bordoni](https://www.linkedin.com/in/rafael-de-lima-bordoni/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/eldskald) 
