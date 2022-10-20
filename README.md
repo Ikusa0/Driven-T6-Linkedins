@@ -50,6 +50,9 @@
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/EricChandia)
 
 
+- [Fernando Castro](https://www.linkedin.com/in/nandocastro/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/nando-castro)
+
+
 - [Gabriel Camargo](https://www.linkedin.com/in/gabrielcmrg/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/GabrielCmrg)
 
 
