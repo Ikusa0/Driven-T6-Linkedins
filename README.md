@@ -29,7 +29,7 @@
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
 
 
-- [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Lucasrfon)
+- [Lucas Ribeiro Fonseca](https://www.linkedin.com/in/lucasrfon/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Lucasrfon)
 
 
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danilo-olacerda)
@@ -66,5 +66,6 @@
 
 
 - [Rudá Rabello da Silva](https://www.linkedin.com/in/ruda-rabello-da-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rudarabello)
+
 
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro) 
