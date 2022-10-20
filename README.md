@@ -105,3 +105,6 @@
 
 
 - [Caio Rodrigues Villela Pedras](https://www.linkedin.com/in/CaioPedras/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Caio-Pedras)
+
+
+- [Thaíse Silva Alves](https://www.linkedin.com/in/thaise-silva-alves/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/thaisealves)
