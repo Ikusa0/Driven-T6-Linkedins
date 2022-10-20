@@ -115,3 +115,6 @@
 
 - [João Victor de Albuquerque Silva](https://www.linkedin.com/in/jv-albuquerque-s) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/JV-Albuquerque-S)
 
+
+- [Gabriela Tiago](https://www.linkedin.com/in/gabriela-tiago) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/GabrielaTiago)
+
