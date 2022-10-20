@@ -41,6 +41,9 @@
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danilo-olacerda)
 
 
+- [Danton Matheus da Silva Costa](https://www.linkedin.com/in/danton-matheus-costa) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danton03)
+
+
 - [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/DarlonGomes)
 
 
