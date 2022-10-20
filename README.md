@@ -65,6 +65,9 @@
 - [Thalya Busato Beltrame](https://www.linkedin.com/in/thalyabbeltrame/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/thalyabbeltrame)
 
 
+- [Bárbara Rech](https://www.linkedin.com/in/barbara-rech/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/barbararech) :upside_down_face:
+
+
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
 
 
