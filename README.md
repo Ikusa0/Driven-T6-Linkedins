@@ -87,3 +87,5 @@
 
 
 - [Victor Hugo Borges Simões](https://www.linkedin.com/in/victorhugosimoes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/VicterHuger)
+
+- [Gabriel Camargo](https://www.linkedin.com/in/gabrielcmrg/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/GabrielCmrg)
