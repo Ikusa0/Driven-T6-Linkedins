@@ -144,3 +144,6 @@
 
 
 - [Pedro H B O Dias](https://www.linkedin.com/in/phbodias/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/phbodias)
+
+
+- [Tiago de Lima Batista](https://www.linkedin.com/in/tiago-de-lima-613291213/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/tiagodlb)
