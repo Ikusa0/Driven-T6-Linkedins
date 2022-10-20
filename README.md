@@ -92,6 +92,9 @@
 - [João Victor de Albuquerque Silva](https://www.linkedin.com/in/jv-albuquerque-s) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/JV-Albuquerque-S)
 
 
+- [Kadson Lima](https://www.linkedin.com/in/kadsonlima/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/KadsonLima)
+
+
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro)
 
 
