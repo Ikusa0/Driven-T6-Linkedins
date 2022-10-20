@@ -59,6 +59,9 @@
 - [Gabriela Tiago](https://www.linkedin.com/in/gabriela-tiago) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/GabrielaTiago)
 
 
+- [Gadiel Zilto Azevedo](https://www.linkedin.com/in/gadiel-zilto-azevedo/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/gadi29)
+
+
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 
 
@@ -147,5 +150,3 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
-
-- [Gadiel Zilto Azevedo](https://www.linkedin.com/in/gadiel-zilto-azevedo/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/gadi29)
