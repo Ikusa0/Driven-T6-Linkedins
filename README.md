@@ -13,6 +13,7 @@
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
+- [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) 😊
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
 - [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) 😁
