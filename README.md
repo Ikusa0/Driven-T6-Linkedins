@@ -12,6 +12,9 @@
 - [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jhuzinha)
 
 
+- [Eduardo Oliveira Pacheco](https://www.linkedin.com/in/eduardopacheco12) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/EduardoPacheco12)
+
+
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/V1T0R-CM)
 
 
