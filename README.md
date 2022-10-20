@@ -46,3 +46,6 @@
 
 
 - [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rerenan)
+
+
+- [Thalya Busato Beltrame](https://www.linkedin.com/in/thalyabbeltrame/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/thalyabbeltrame)
