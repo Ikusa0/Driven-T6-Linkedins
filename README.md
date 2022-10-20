@@ -9,7 +9,6 @@
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) :blush:
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) 😬
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
-- [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) :sweat_smile:
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) :blush:
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) :blush:
@@ -18,3 +17,4 @@
 - [Eric Chandia](https://www.linkedin.com/in/eric-chandia/)
 - [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) 😁
 - [Renan Araujo de Carvalho](https://www.linkedin.com/in/renan-araujo-dev/) 🤠
+- [Lucas Ribeiro Fonseca](https://www.linkedin.com/in/lucasrfon/) :sweat_smile:
