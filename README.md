@@ -127,3 +127,6 @@
 
 - [Jaqueline Caye](https://www.linkedin.com/in/jaqueline-caye/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jaquecaye2)
 
+
+- [Matheus da Silva Melo](https://www.linkedin.com/in/matheusbalcky/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/MatheusBalcky)
+
