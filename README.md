@@ -117,6 +117,9 @@
 - [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
 
 
+- [Matheus Amorim Garcia Santos](https://www.linkedin.com/in/matheus-amorim-gs/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/mtsgamorim)
+
+
 - [Matheus da Silva Melo](https://www.linkedin.com/in/matheusbalcky/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/MatheusBalcky)
 
 
