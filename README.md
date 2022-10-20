@@ -35,7 +35,6 @@
 
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Hector-Santos)
 
-
 - [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Tutuezin)
 
 
@@ -57,7 +56,6 @@
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
 
 
-- [Kadson Lima](https://www.linkedin.com/in/kadsonlima/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/KadsonLima/)
-
-
 - [João Marcelo Simão de Castro](https://www.linkedin.com/in/joao-marcelo-castro/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jyagami99)
+
+- [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
