@@ -77,7 +77,10 @@
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro) 
 
 
+- [Rafael de Lima Bordoni](https://www.linkedin.com/in/rafael-de-lima-bordoni/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/eldskald)
+
+
+- [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
+
+
 - [Adriano Matoba Lipski](https://www.linkedin.com/in/adriano-matoba-lipski-555378239/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dr1co)
-
-
-- [Rafael de Lima Bordoni](https://www.linkedin.com/in/rafael-de-lima-bordoni/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/eldskald) 
