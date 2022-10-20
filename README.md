@@ -4,10 +4,10 @@
 # Linkedins
 
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Ikusa0)
-- [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) 🧰
-- [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) :blush:
-- [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) :blush:
-- [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) 😬
+- [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/DarlonGomes)
+- [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jhuzinha)
+- [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/V1T0R-CM)
+- [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
 - [Lucas Ribeiro Fonseca](www.linkedin.com/in/lucasrfon) :sweat_smile:
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) 😊
