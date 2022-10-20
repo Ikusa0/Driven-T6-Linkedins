@@ -6,9 +6,6 @@
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Ikusa0)
 
 
-- [Lucas Gabriel de Lima Silva](https://www.linkedin.com/in/lucas-gabriel-lima-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lugablima)
-
-
 - [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/DarlonGomes)
 
 
@@ -24,7 +21,7 @@
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 
 
-- [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
+- [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
 
 
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
@@ -67,3 +64,5 @@
 
 
 - [Rudá Rabello da Silva](https://www.linkedin.com/in/ruda-rabello-da-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rudarabello)
+
+- [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro) 
