@@ -51,3 +51,6 @@
 
 
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
+
+
+- [João Marcelo Simão de Castro](https://www.linkedin.com/in/joao-marcelo-castro/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jyagami99)
