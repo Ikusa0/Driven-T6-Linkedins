@@ -65,6 +65,9 @@
 - [Hector Antônio Batista Santos](https://www.linkedin.com/in/hectorsantos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Hector-Santos)
 
 
+- [Januacele Vieira](https://www.linkedin.com/in/januacelevieira) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Januacele)
+
+
 - [Jaqueline Caye](https://www.linkedin.com/in/jaqueline-caye/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/jaquecaye2)
 
 
