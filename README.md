@@ -6,6 +6,9 @@
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Ikusa0)
 
 
+- [Lucas Gabriel de Lima Silva](https://www.linkedin.com/in/lucas-gabriel-lima-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lugablima)
+
+
 - [Darlon Francisco Muniz Pereira Gomes](https://www.linkedin.com/in/darlon-gomes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/DarlonGomes)
 
 
