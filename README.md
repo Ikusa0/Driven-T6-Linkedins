@@ -159,7 +159,7 @@
 - [Victor Hugo Borges Simões](https://www.linkedin.com/in/victorhugosimoes/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/VicterHuger)
 
 
-- [Vinicius Pacheco](https://www.linkedin.com/in/vinicius-pacheco-54abaa242/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/ThVinicius)
+- [Vinicius Pacheco](https://www.linkedin.com/in/thvinicius/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/ThVinicius)
 
 
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/V1T0R-CM)
