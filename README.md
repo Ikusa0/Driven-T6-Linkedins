@@ -34,7 +34,9 @@
 
 - [Carlos Gabriel Albuquerque dos Santos](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/carlos-allbuquerque)
 
+
 - [Daniel Lucas Ederli](https://www.linkedin.com/in/daniel-lucas-ederli) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/DanielL29)
+
 
 - [Danilo de Oliveira Lacerda](https://www.linkedin.com/in/daniloolacerda/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/danilo-olacerda)
 
@@ -121,6 +123,7 @@
 
 
 - [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
+
 
 - [Luiz Florentino](https://www.linkedin.com/in/luiz-florentino/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lguilhermefl)
 
