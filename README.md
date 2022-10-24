@@ -102,7 +102,7 @@
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro)
 
 
-- [Livison Vinícius Ribeiro dos Santos ](https://www.linkedin.com/in/livison-vin%C3%ADcius/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LivisonVinicius)
+- [Livison Vinícius Ribeiro dos Santos ](https://www.linkedin.com/in/livison-vinicius/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LivisonVinicius)
 
 
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
