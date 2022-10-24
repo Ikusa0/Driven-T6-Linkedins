@@ -11,6 +11,9 @@
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
 
 
+- [Arthur Akira](https://www.linkedin.com/in/akiratatesawa/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/akiraTatesawa)
+
+
 - [Arthur Alcantara](https://www.linkedin.com/in/arthur-alcantara-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Tutuezin)
 
 
