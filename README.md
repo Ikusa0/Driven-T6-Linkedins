@@ -117,6 +117,9 @@
 - [Lucas Ribeiro Fonseca](https://www.linkedin.com/in/lucasrfon/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Lucasrfon)
 
 
+- [Luigi Hideki Tanaka](https://www.linkedin.com/in/luigi-tanaka/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LuigiTanaka)
+
+
 - [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
 
 - [Luiz Florentino](https://www.linkedin.com/in/luiz-florentino/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lguilhermefl)
@@ -173,5 +176,3 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
-
-- [Luigi Hideki Tanaka](https://www.linkedin.com/in/luigi-tanaka/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LuigiTanaka)
