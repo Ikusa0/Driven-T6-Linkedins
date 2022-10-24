@@ -171,3 +171,5 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
+
+- [Luigi Hideki Tanaka](https://www.linkedin.com/in/luigi-tanaka/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LuigiTanaka)
