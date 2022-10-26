@@ -112,6 +112,8 @@
 
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
 
+- [Lucas Lafèré](https://www.linkedin.com/in/lucaslafere/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucaslafere)
+
 - [Lucas Gabriel de Lima Silva](https://www.linkedin.com/in/lucas-gabriel-lima-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lugablima)
 
 - [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
