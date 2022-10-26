@@ -64,7 +64,9 @@
 
 - [Gabriel Farias Alves](https://www.linkedin.com/in/gabriel-farias-alves/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/farias-77)
 
+
 - [Gabriel Rak Zanchetta](https://www.linkedin.com/in/grzanchetta/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/grakzanchetta)
+
 
 - [Gabriela Tiago](https://www.linkedin.com/in/gabriela-tiago) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/GabrielaTiago)
 
@@ -99,6 +101,9 @@
 - [João Victor de Albuquerque Silva](https://www.linkedin.com/in/jv-albuquerque-s) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/JV-Albuquerque-S)
 
 
+- [João Vitor de Jesus Grilo](https://www.linkedin.com/in/jo%C3%A3o-vitor-grilo/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/J040V1T0RJG)
+
+
 - [Juan Campos Barezzi](https://www.linkedin.com/in/juanbarezzi/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jbarezzi)
 
 
@@ -110,11 +115,15 @@
 
 - [Livison Vinícius Ribeiro dos Santos ](https://www.linkedin.com/in/livison-vinicius/)[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LivisonVinicius)
 
+
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucasborges24)
+
 
 - [Lucas Lafèré](https://www.linkedin.com/in/lucaslafere/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lucaslafere)
 
+
 - [Lucas Gabriel de Lima Silva](https://www.linkedin.com/in/lucas-gabriel-lima-silva/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/lugablima)
+
 
 - [Lucas Palharini](https://www.linkedin.com/in/lucas-palharini/) =) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pipas2309)
 
@@ -182,5 +191,3 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
-
-- [João Vitor de Jesus Grilo](https://www.linkedin.com/in/jo%C3%A3o-vitor-grilo/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/J040V1T0RJG)
