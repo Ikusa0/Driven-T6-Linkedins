@@ -149,6 +149,9 @@
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pgeovany)
 
 
+- [Paulo Cruz](https://www.linkedin.com/in/paulo-cruz-7a254758/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/PauloCruz06)
+
+
 - [Pedro H B O Dias](https://www.linkedin.com/in/phbodias/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/phbodias)
 
 
