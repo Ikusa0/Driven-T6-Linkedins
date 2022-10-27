@@ -146,6 +146,9 @@
 - [Matheus da Silva Melo](https://www.linkedin.com/in/matheusbalcky/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/MatheusBalcky)
 
 
+- [Milene Gomes Jannetti](https://www.linkedin.com/in/milene-jannetti/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/MileneGJ)
+
+
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/pgeovany)
 
 
