@@ -5,7 +5,7 @@
 - [Adnan Medeiros Bezerra](https://www.linkedin.com/in/adnan-medeiros-bezerra-374134220/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/adnanbezerra)
 
 
-- [Adriano Matoba Lipski](https://www.linkedin.com/in/adriano-matoba-lipski-555378239/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dr1co)
+- [Adriano Matoba Lipski](https://www.linkedin.com/in/amlipski) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/dr1co)
 
 
 - [André Ibrahim Zopolato](https://www.linkedin.com/in/andre-ibrahim-zopolato/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/andrezopo)
