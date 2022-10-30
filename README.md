@@ -110,6 +110,9 @@
 - [Kadson Lima](https://www.linkedin.com/in/kadsonlima/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/KadsonLima)
 
 
+- [Kayck Schuenck](https://www.linkedin.com/in/kayckschuenck/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/KayckSchuenck)
+
+
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-dev/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro)
 
 
