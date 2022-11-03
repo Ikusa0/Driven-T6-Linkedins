@@ -26,7 +26,7 @@
 - [Bárbara Rech](https://www.linkedin.com/in/barbara-rech/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/barbararech)
 
 
-- [Caio Matheus de Almeida Sobreira](https://www.linkedin.com/in/caio-almeida-62a899193/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/CaioALM)
+- [Caio Matheus de Almeida Sobreira](https://www.linkedin.com/in/CaioSobreira/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/CaioALM)
 
 
 - [Caio Rodrigues Villela Pedras](https://www.linkedin.com/in/CaioPedras/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Caio-Pedras)
