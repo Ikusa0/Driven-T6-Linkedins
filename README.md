@@ -20,6 +20,9 @@
 - [Audrey Wallace da Costa Barros](https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Audrey-Costa)
 
 
+- [Augusto Lopes Falcão Pinheiro](https://www.linkedin.com/in/augustolopesfalcao/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/augustolfp)
+
+
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Ikusa0)
 
 
